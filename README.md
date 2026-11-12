@@ -1,15 +1,38 @@
-- 👋 Hi, I’m @ErnestChidex8
-- 👀 I’m interested in ...Data analytics, web Dev, graphics & UI/UX design, 
-- 🌱 I’m currently learning ...Web Dev using HTML & CSS, Data analysis with Excel, MySQL & python.Data visualization with Tableu/ Power Bi. 
-- 💞️ I’m looking to collaborate on ... Building Data projects, Hackathons, associations involving Web builders.
-- 📫 How to reach me ...Linkedin:https://www.linkedin.com/in/ernest-chidera
--                      Email:ernestchukwuemeka4@gmail.com
--                      Twitter:@ChidexErne95958
--                      Residence: Prestige Lodge, Fada Agbo junction, Ajuona Obukpa, Nsukka
-- 😄 Pronouns: ... Nothing under the sun{Earth} is permanent, not even your challenges.
-- ⚡ Fun fact: ...i love body-building, exercises, sports but people thinks i hate sports because i barely participate those activities.
 
-<!---
-ErnestChidex8/ErnestChidex8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Ernest Chidera Ugwu
+
+### Aspiring Data Analyst | Technology Enthusiast | Problem Solver
+
+I'm passionate about using technology and data to solve real-world problems, uncover insights, and support informed decision-making.
+
+### 🚀 About Me
+- 🎓 Background in Science Laboratory Technology.
+- 📊 Interested in Data Analytics and Business Intelligence.
+- 🌱 Continuously developing my technical and analytical skills.
+- 🤝 Open to collaborations, projects and hackathons.
+
+### 🛠️ Technical Skills
+
+- **Data Analysis:** Excel, Python, SQL, MySQL
+- **Data Visualization:** Tableau, Power BI
+- **Other Interests:** UI/UX Design, Technology & Innovation
+
+### 📚 Currently Learning
+- Python for Data Analytics
+- SQL for Data Analysis
+- Data Cleaning and Exploratory Data Analysis
+- Data Visualization and Dashboard Development
+
+### 🤝 Let's Collaborate
+I'm interested in collaborating on:
+- Data analytics projects
+- Open-source projects
+- Technology innovation
+- Hackathons and learning communities
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ernest-chidera
+- GitHub: https://github.com/ErnestChidex8
+
+---
+*Turning curiosity into insights, and insights into impact.*
